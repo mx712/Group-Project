@@ -5,7 +5,8 @@ A. Assign individuals to each of these categories:
 Web (maybe app too) design and graphics
 Data mining and database management
 Algorithms
-(This doesn't mean that we won't each spend time working on all three sections, just that when we have a working project and want to further enhance things, we can focus on our individual sections)
+(This doesn't mean that we won't each spend time working on all three sections, just that when we have a working project
+and want to further enhance things, we can focus on our individual sections)
 
  
 B. Set up a github project which we can use to source control our work (Geri to do).
@@ -19,7 +20,8 @@ Use machine learning (need to check with Will whether the module next semester i
 Enhancements:
 Display which of the online bookmakers offer the best odds for each of our predictions
 Use our win/loss probabilities to estimate expected gains with each bookie
-Provide the user the ability to prioritize factors within our model to come up with their own tweaked version of our predictions
+Provide the user the ability to prioritize factors within our model to come up with their own tweaked version of our 
+predictions
 Mobile app to support our website
 Graphical display of our prediction engine's historical performance
 Player stats
